@@ -4,6 +4,17 @@ A video by freecodecamp showed few basic golang projects, which kinda seemed int
 So here I am, on my own little whim, sitting down and trying to follow along the tutorials, to get my feet wet 
 Projects are as follows:
 
+```
+(just a random fortune)
+    ┌───────────────────────────────────────────────────┐
+    │   How apt the poor are to be proud.               │
+		│     -- William Shakespeare, "Twelfth-Night"       │
+    └───────────────────────────────────────────────────┘
+            
+```
+
+
+***
 1. go-server:
   * Checkout the diagram.md for an idea on how its "designed"
   * check the notes maybe?
